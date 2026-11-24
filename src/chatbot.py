@@ -9,7 +9,7 @@ from google.genai import types
 load_dotenv()
 
 # Get API key
-API_KEY = os.getenv("GEMINI_API_KEY")
+API_KEY = os.getenv("AQ.Ab8RN6LmU4-rRKD2SH1ksTH_hc1tz60OLc1VXh5vGXpOlJ-YxQ")
 
 # Initialize Gemini client
 if not API_KEY:
